@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-##
+###
 
 <br clear="both">
 
@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/peaceofsense/peaceofsense/output/snake.svg)
+<img src="https://raw.githubusercontent.com/peaceofsense/peaceofsense/output/snake.svg" alt="Snake animation" />
 
 ###
