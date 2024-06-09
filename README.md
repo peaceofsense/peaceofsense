@@ -8,8 +8,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peaceofsense/peaceofsense/output/github-contribution-grid-snake.svg">
 </picture>
 
-Generated with [Platane/snk](https://github.com/Platane/snk)<sup>[1](#platane-snk)</sup>.
+<small>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></small>
 
-...
-
-<small id="platane-snk">[1]: Generated with [Platane/snk](https://github.com/Platane/snk)</small>
