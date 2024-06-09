@@ -8,5 +8,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/peaceofsense/peaceofsense/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>Generated with <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
 
